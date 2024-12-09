@@ -1,0 +1,2 @@
+A novel analytical approach called Zero Bus Load Flow (ZBLF) is used for the optimal placement of Distributed Generation (DG) sources in distribution networks under the condition of known power injection from the utility or substation. Combined with the Symbiotic Organism Search (SOS) algorithm, this method aims to reduce active power losses while enhancing technical and economic benefits. The approach is validated on 33-bus and 69-bus distribution networks under varying load levels.
+https://doi.org/10.1016/j.energy.2019.03.034
